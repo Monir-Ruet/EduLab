@@ -1,4 +1,6 @@
 /** @type {import('next').NextConfig} */
+
+
 const nextConfig = {
     experimental: {
         appDir: true,
@@ -14,6 +16,5 @@ const nextConfig = {
         backend_url: "https://nspgvh-5000.csb.app"
     }
 }
-
 
 module.exports = nextConfig
