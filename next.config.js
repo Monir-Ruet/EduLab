@@ -13,7 +13,7 @@ const nextConfig = {
         ]
     },
     env: {
-        backend_url: "https://nspgvh-5000.csb.app"
+        backend_url: "http://localhost:5000"
     }
 }
 
